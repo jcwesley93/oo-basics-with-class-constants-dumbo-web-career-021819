@@ -14,11 +14,7 @@ BRANDS = []
     puts "Your shoe is as good as new!"
   end
   
-#   def brands=(brand)
-#     @brand 
-   
-#     # BRANDS << brand 
-#     # BRANDS
-# end
+def brands 
+  self.brands
 
 end
