@@ -15,7 +15,7 @@ BRANDS = []
   end
   
 def brands 
-  self.brands
+  self.brand
 end
 
 end
