@@ -14,8 +14,8 @@ BRANDS = []
   end
   
   def brands=(brand)
-    @brand = brand
-    binding.pry
+    @brand 
+   
     # BRANDS << brand 
     # BRANDS
 end
