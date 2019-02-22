@@ -15,7 +15,7 @@ BRANDS = []
   end
   
 def brands 
-  self.brand
+  self :: BRANDS
 end
 
 end
